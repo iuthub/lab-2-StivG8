@@ -2,12 +2,12 @@
 h2,h1{color: yellow;}
 a{color: blue;
 	text-decoration: none;}
-a:hover{
-	color: #1235CE; text-decoration: underline;
-}
 p{color: white;}
 p::first-letter{
 	font-size: xx-large;
 }
 li{color: white; font-family: Tahoma;}
 b{color: yellow;}
+a:hover{
+	color: #1235CE; text-decoration: underline;
+}
